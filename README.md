@@ -8,7 +8,7 @@ I do my best work on applied R&D projects or greenfield projects in which I (and
 Here's a few examples of the work I've done professionally:
 
 - Lead the design and development of a novel geosptatial analysis system, STIRE, from the idea phase to production. 
-  - STIRE leverages spacetimehashing and machine learning to automate frequenctly encountered geospatial analysis that have traditionally required human review.
+  - STIRE leverages spacetimehashing and machine learning to automate frequently encountered geospatial analysis that have traditionally required human review.
   - STIRE is integrated into [Black Cape's Rubicon offering](https://blackcape.io/products/rubicon)
 
 - Develop full stack, application, and system software for a robust Positioning, Navigation, & Timing (PNT) system.

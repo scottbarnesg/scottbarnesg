@@ -42,9 +42,9 @@ Here's a subset of the tools and techniques I work with.
 #### Projects
 
 - [NexGame](https://play.google.com/store/apps/details?id=com.app.nexgame): A peer-to-peer cloud gaming service.
+- [Smart Sec Cam](https://github.com/scottbarnesg/smart-sec-cam): A self-hosted smart security camera solution with a focus on privacy and security.
 - [Fast Find](https://github.com/scottbarnesg/fastfind): A fast and efficient memory-backed `find` utility, leveraging MARISA-Trie.
 - [Cooperative Search Environment](https://github.com/scottbarnesg/Cooperative_Search_Env): An OpenAI Gym environment for multi-agent reinforcement learning.
-- Smart Sec Cam: A self-hosted smart security camera solution with a focus on privacy and security.
 - Alice: A privacy first, intelligent voice assistant with first-class support for running without a network connection.
 
 #### Contact

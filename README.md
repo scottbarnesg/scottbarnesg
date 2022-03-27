@@ -1,14 +1,14 @@
 #### Hi, I'm Scott.
 
 I'm a software engineer who enjoys designing and implementing novel systems. 
-I do my best work on applied R&D projects or greenfield projects in which I (and my team) have significant autonomy.
+I do my best work on applied R&D projects or greenfield projects in which I and my team have significant autonomy.
 
 #### Professional Work
 
 Here's a few examples of the work I've done professionally:
 
-- Lead the design and development of a novel geosptatial analysis system, STIRE, from the idea phase to production. 
-  - STIRE leverages spacetimehashing and machine learning to automate frequently encountered geospatial analysis that have traditionally required human review.
+- Lead the design and development of a novel geosptatial analysis system, STIRE (Space-Time Intelligence & Reasoning Engine), from the idea phase to production. 
+  - STIRE leverages spacetimehashing and machine learning to automate frequently encountered geospatial analysis tasks that have traditionally required human review.
   - STIRE is integrated into [Black Cape's Rubicon offering](https://blackcape.io/products/rubicon)
 
 - Develop full stack, application, and system software for a robust Positioning, Navigation, & Timing (PNT) system.
@@ -42,7 +42,7 @@ Here's a subset of the tools and techniques I work with.
 #### Projects
 
 - [NexGame](https://play.google.com/store/apps/details?id=com.app.nexgame): A peer-to-peer cloud gaming service.
-- [Smart Sec Cam](https://github.com/scottbarnesg/smart-sec-cam): A self-hosted smart security camera solution with a focus on privacy and security.
+- [Smart Sec Cam](https://github.com/scottbarnesg/smart-sec-cam): A FOSS, self-hosted smart security camera solution with a focus on privacy and security.
 - [Fast Find](https://github.com/scottbarnesg/fastfind): A fast and efficient memory-backed `find` utility, leveraging MARISA-Trie.
 - [Cooperative Search Environment](https://github.com/scottbarnesg/Cooperative_Search_Env): An OpenAI Gym environment for multi-agent reinforcement learning.
 - Alice: A privacy first, intelligent voice assistant with first-class support for running without a network connection.

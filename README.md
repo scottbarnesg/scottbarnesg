@@ -9,7 +9,7 @@ Here's a few examples of the work I've done professionally:
 
 - Lead the design and development of a novel geosptatial analysis system, STIRE (Space-Time Intelligence & Reasoning Engine), from the idea phase to production. 
   - STIRE leverages spacetimehashing and machine learning to automate frequently encountered geospatial analysis tasks that have traditionally required human review.
-  - STIRE is integrated into [Black Cape's Rubicon offering](https://blackcape.io/products/rubicon)
+  - STIRE provides advanced geospatial analytics for [Black Cape's Rubicon offering](https://blackcape.io/products/rubicon)
 
 - Develop full stack, application, and system software for a robust Positioning, Navigation, & Timing (PNT) system.
   - Designed & developed novel software service to steer a clock at nanosecond precision with full redundancy based on statistical confidence in source signals.

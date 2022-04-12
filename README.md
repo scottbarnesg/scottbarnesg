@@ -37,7 +37,7 @@ Here's a subset of the tools and techniques I work with.
 | C++           | React         | PostgreSQL    | Deep Reinforcement Learning |
 | Java          | SqlAlchemy    | ClickHouse    | Geospatial Analysis         |
 | Go            | Keras         | Docker        | Command & Control Systems   |
-| Javascript    | OpenCV        | GNU/Linux     |                             |
+| Javascript    | OpenCV        | GNU/Linux     | Robotic Control Systems     |
 
 #### Projects
 

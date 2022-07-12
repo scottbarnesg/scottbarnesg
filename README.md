@@ -7,8 +7,8 @@ I do my best work on applied R&D projects or greenfield projects in which I and 
 
 Here's a few examples of the work I've done professionally:
 
-- Lead the design and development of a novel geosptatial analysis system, STIRE (Space-Time Intelligence & Reasoning Engine), from the idea phase to production. 
-  - STIRE leverages spacetimehashing and machine learning to automate frequently encountered geospatial analysis tasks that have traditionally required human review.
+- Technical lead for Black Cape's STIRE (Space-Time Intelligence & Reasoning Engine) capability, a highly performant geosptatial search and analysis system. Lead the project from the idea phase to production. 
+  - STIRE leverages geospatial/temporal encoding and machine learning techniques to automate frequently encountered geospatial analysis tasks that have traditionally required human review.
   - STIRE provides advanced geospatial analytics for [Black Cape's Rubicon offering](https://blackcape.io/products/rubicon)
 
 - Develop full stack, application, and system software for a robust Positioning, Navigation, & Timing (PNT) system.
@@ -16,9 +16,9 @@ Here's a few examples of the work I've done professionally:
   - Identified bottlenecks in geolocation engine algorithms & implemented improvements, reducing computation time by ~20%.
   - Developed multi-tiered cache and pubsub system for ingesting live data, reducing staleness by ~30%.
 
-- Principal Investigator on internal R&D program, 
+- Principal Investigator on Raytheon Intelligence & Space's Airspace Tolling program. 
   - Lead a team of engineers to successfully develop [a prototype system for identifying and tracking small unmanned air systems](https://www.rtx.com/News/2020/04/03/Aviation-2030).
-  - Generated multiple patents.
+  - Generated multiple patents and invention disclosures.
 
 #### Patents and Papers
 
@@ -37,7 +37,7 @@ Here's a subset of the tools and techniques I work with.
 | C++           | React         | PostgreSQL    | Deep Reinforcement Learning |
 | Java          | SqlAlchemy    | ClickHouse    | Geospatial Analysis         |
 | Go            | Keras         | Docker        | Command & Control Systems   |
-| Javascript    | OpenCV        | GNU/Linux     | Robotic Control Systems     |
+| Typescript    | OpenCV        | GNU/Linux     | Robotic Control Systems     |
 
 #### Projects
 

@@ -1,6 +1,6 @@
 #### Hi, I'm Scott.
 
-I'm a software engineer turned solutions architect who enjoys designing and implementing novel systems. 
+I'm a Software Engineer turned Solutions Architect who enjoys designing and implementing novel systems. 
 I do my best work on applied R&D projects or greenfield projects in which I and my team have significant autonomy.
 
 #### Professional Work
